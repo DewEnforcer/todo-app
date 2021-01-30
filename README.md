@@ -5,7 +5,7 @@ Checkout the API made for this project [here](https://github.com/DewEnforcer/tod
 # Setup
 First, clone the project
 ```
-$ git clone https://github.com/moustafa-m/MECH3895_project
+$ git clone https://github.com/DewEnforcer/todo-app
 ```
 Afterwards, install all necessary packages 
 ```
